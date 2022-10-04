@@ -120,6 +120,7 @@ body {
 
 .button:hover {
     background-color: var(--very-dark-blue);
+    cursor: pointer;
 }
 
 /* attribution */
